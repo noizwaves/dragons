@@ -30,7 +30,7 @@ After cloning the repo and installing dependencies (requirements.txt), do:
 
 ## Contributors
 
-* [Adam Neumann](adam@noizwaves.com)
+* [Adam Neumann](https://github.com/noizwaves)
 
 ## License
 
