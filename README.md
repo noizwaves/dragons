@@ -22,6 +22,7 @@ Any dips in performance should trigger alerts to developers.
 ### Development
 
 After cloning the repo and installing dependencies (requirements.txt), do:
+
 1.  "cd path/to/dragons/repo"
 2.  "cp examples/example.py dragonfile.py"
 3.  tweak the contents of dragonfile.py to your liking
@@ -34,7 +35,6 @@ After cloning the repo and installing dependencies (requirements.txt), do:
 *   Decide how to install Dragons onto a remote EC2 instance
 *   Fix setup.py; geventhttpclient is not available in repos yet.
 *   Make command more reliable and produce statistical output.
-
 
 ## Contributors
 
